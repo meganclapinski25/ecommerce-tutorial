@@ -37,15 +37,15 @@ The ```<ul>``` tag defines an unordered (bulleted) list.
 >
 ```html
 <header class='page-header'>
-    <h4>The Mood Shop</h4>
-    <nav>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Cart</a></li>
-      </ul>
-    </nav>
-  </header>
+  <h4>The Mood Shop</h4>
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Cart</a></li>
+    </ul>
+  </nav>
+</header>
 ```
 
 <!-- -->
