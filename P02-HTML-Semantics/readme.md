@@ -11,7 +11,7 @@ HTML is short for "HyperText Markup Language". That may sound scary, but it simp
 
 ## What is an HTML tag?
 
-HTML tags are the hidden keywords within a web page that define how your web browser must format and display the content.
+HTML tags are the hidden keywords within a web page that define the structure of your document.
 
 Most tags must have two parts, an opening and a closing part. For example, **```<html>```** is the opening tag and **```</html>```** is the closing tag. Note that the closing tag has the same text as the opening tag, but has an additional forward-slash ( / ) character.
 
@@ -28,13 +28,13 @@ You can learn more about the outline here: [HTML template](https://www.sitepoint
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-<title>Title of the document</title>
-</head>
+  <head>
+    <title>Title of the document</title>
+  </head>
 
-<body>
-  The content of the document......
-</body>
+  <body>
+    The content of the document......
+  </body>
 </html>
 ```
 
