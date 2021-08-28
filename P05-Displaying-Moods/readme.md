@@ -120,7 +120,7 @@ All of these items will be displayed in `div#items`. We can get this element usi
 >
 > `const itemsContainer = document.querySelector('#items')`
 
-We also need to import the json file into the ```script.js```.
+We also need to import the json file into the `script.js`.
 
 Now that we have access to the json array, we can loop through the array and make image elements out of it.
 
