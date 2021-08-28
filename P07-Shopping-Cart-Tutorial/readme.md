@@ -13,7 +13,7 @@ Our shopping cart will be located in the footer of our ecommerce page.
 
 We will add a footer element in our html.
 >[action]
-> Add a footer element after the main element inside your ```index.html``` file
+> Add a footer element after the main element inside your `index.html` file
 >
 ```html
 <footer>
@@ -47,6 +47,7 @@ Your HTML markup should now look like this:
      -->
   </main>
   <footer>
+    <!-- Footer -->
   </footer>
   <script src='./resources/js/scripts.js' type="module"></script>
 </body>
@@ -65,13 +66,13 @@ You can write the javascript functions below the code you wrote for displaying m
 >
 > **ONE MORE TIME, AS THIS IS IMPORTANT:**
 >
-> In the video tutorial, **all code is written inside ```index.html```.** But since we have a separate ```scripts.js``` file, **we'll write the javascript code in there instead of inside the ```<script>``` tag.**
+> In the video tutorial, **all code is written inside `index.html`.** But since we have a separate `scripts.js` file, **we'll write the javascript code in there instead of inside the `<script>` tag.**
 >
-> You can write the javascript functions below the code you wrote for displaying moods in ```scripts.js``` file.
+> You can write the javascript functions below the code you wrote for displaying moods in `scripts.js` file.
 
 # 1st video (start at 5:25 - end)
 
-This first video will walk you through how to add and show items on your console by writing the functions ```addItem()``` and ```showItems()```.
+This first video will walk you through how to add and show items on your console by writing the functions `addItem()` and `showItems()`.
 
 Follow the video **starting at 5:25** until the end.
 
