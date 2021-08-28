@@ -1,8 +1,4 @@
----
-title: "Header and Navbar"
-slug: header-and-navbar
----
-
+# Header and Navbar
 
 Now that we have seen how html works, let's go ahead and start with working on our website.
 

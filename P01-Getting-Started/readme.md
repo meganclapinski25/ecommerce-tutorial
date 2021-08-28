@@ -1,7 +1,4 @@
----
-title: "Getting Started"
-slug: getting-started
----
+# Getting Started
 
 ## Overview
 ![Mood Gif](assets/01_getting-started_mood.gif "Mood Gif")

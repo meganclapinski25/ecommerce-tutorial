@@ -1,7 +1,4 @@
----
-title: "Displaying Cart In Console"
-slug: displaying-cart-in-console
----
+# Displaying Cart In Console
 
 In this chapter there will be 3 videos that will guide you in: 
 

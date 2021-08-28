@@ -1,7 +1,4 @@
----
-title: "HTML Semantics"
-slug: html-semantics
----
+# HTML Semantics
 
 In this Chapter we will be using: **HTML** and **CSS**
 

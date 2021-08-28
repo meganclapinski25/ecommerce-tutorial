@@ -1,7 +1,4 @@
----
-title: "Connect Add to Cart button with Shopping Cart"
-slug: connect-add-to-cart-button-with-shopping-cart
----
+# Connect Add to Cart button with Shopping Cart
 
 Now that we can show the shopping cart in the footer of our page, the next
 step would be to connect our 'Add to Cart' buttons on the items to the cart.

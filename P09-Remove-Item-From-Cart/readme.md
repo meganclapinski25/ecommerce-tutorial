@@ -1,7 +1,4 @@
----
-title: "Remove Item From Cart"
-slug: remove-item-from-cart
----
+# Remove Item From Cart
 
 In this chapter there will be 2 videos that will guide you in: 
 

@@ -1,7 +1,4 @@
----
-title: "Connect Shopping Cart with E-commerce"
-slug: connect-shopping-cart-with-ecommerce
----
+# Connect Shopping Cart with E-commerce
 
 Now that we have written the functions of a shopping cart, it is time to display our results in the browser instead of the console.
 

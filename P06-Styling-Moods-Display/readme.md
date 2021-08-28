@@ -1,7 +1,4 @@
----
-title: "Styling Moods Display"
-slug: styling-moods-display
----
+# Styling Moods Display
 
 This chapter will focus on styling our page using CSS grid system. Currently our page has items displaying but they have not been styled yet.
 

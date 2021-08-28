@@ -1,7 +1,4 @@
----
-title: "Shopping Cart Features"
-slug: shopping-cart-features
----
+# Shopping Cart Features
 
 In this last chapter, we will be finishing up the shopping cart functionality.
 

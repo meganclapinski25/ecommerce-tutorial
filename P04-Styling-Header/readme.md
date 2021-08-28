@@ -1,7 +1,5 @@
----
-title: "Styling Header"
-slug: styling-header
----
+# Styling Header
+
 
 ## Styling the header
 Currently, our header and navbar don't really look like a header or navbar at the moment. We need to add some styles to it.

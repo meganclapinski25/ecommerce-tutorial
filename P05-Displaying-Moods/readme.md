@@ -1,7 +1,4 @@
----
-title: "Displaying Moods"
-slug: displaying-moods
----
+# Displaying Moods
 
 This chapter will focus on displaying all moods on our page. Currently our page has only a navbar.
 

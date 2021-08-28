@@ -1,7 +1,4 @@
----
-title: "Shopping Cart Tutorial"
-slug: shopping-cart-tutorial
----
+# Shopping Cart Tutorial
 
 This chapter along with the remaining chapters will guide you through how to make your ecommerce website functional. We will be adding a shopping cart functionality where users can add and remove items from their cart.
 
