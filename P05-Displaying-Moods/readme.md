@@ -17,7 +17,7 @@ The json data that we will be using is located in `data.js` file.
 
 >[action]
 >
-> Both the images folder and the data.js file are located inside this Github repo : [ecommerce-tutorial-files](https://github.com/MakeSchool-Tutorials/ecommerce-tutorial-files)
+> Both the images folder and the data.js file are located inside this Github repo : [ecommerce-tutorial-files](https://github.com/Tech-at-DU/ecommerce-tutorial-files)
 >
 > Navigate to the github link and download the repo as a zip file.
 >
@@ -76,9 +76,9 @@ Now that we have a good understanding of JSON, we can better understand what the
 > Below our header element in our `index.html` file, let's add another element called **main**. This will hold all the mood items.
 >
 ```html
-<main class='items' id='items'>
+<div class='items' id='items'>
     <!-- Display moods here -->
-</main>
+</div>
 ```
 
 We will be using javascript to dynamically display all the items for the mood shop. We will use a **for loop** to loop through each object inside the `data.js` array and assign image as the image source tag, description as the paragraph to describe the image and price to show the price for each mood.
@@ -86,23 +86,41 @@ We will be using javascript to dynamically display all the items for the mood sh
 >[action]
 > Create a new file called `scripts.js`. This file will hold all your javascript logic to display the items, and future steps like adding them to the cart and removing them from the cart.
 >
+
+Link your `scripts.js` to your `index.html` by adding a `<script>` to the bottom of `index.html`. Make it look like the code snippet below:
+> 
+```html
+	...
+	<script src="scripts.js" type="module"></script>
+	</body>
+</html>
+```
+>
+
+You're declaring this script as a "module" to allow you to use `import` which will come in the following step!
+
+> [action]
+> Open `index.html` add the following at the bottom of the 
+
 > Open `scripts.js`. First we need to get the reference to the containers where all the items will be in.
-
-All items will be in the main tag. The main tag has an id of `items`. We can get this element using its id name. In order to do this, we can use the `document.getElementbyID` function. Then pass the id of the element to the function.
-
->[action]
->
-> Add this at the top of your ```script.js``` file:
->
-> `const itemsContainer = document.getElementById('items')`
-
-We also need to import the json file into the ```script.js```.
 
 >[action]
 >
 > Add this import statement at the top of your `script.js` file.
 >
 > ```import data from './data.js'```
+
+This imports the information from `data.js`. That file constains an array of objects that are the items for sale in the shop. 
+
+All of these items will be displayed in `div#items`. We can get this element using its id name. In order to do this, we can use the `document.querySelector()` function by passing the id of the element. 
+
+>[action]
+>
+> Add this at the top of your ```scripts.js``` file:
+>
+> `const itemsContainer = document.querySelector('#items')`
+
+We also need to import the json file into the ```script.js```.
 
 Now that we have access to the json array, we can loop through the array and make image elements out of it.
 
