@@ -20,7 +20,7 @@ We will use CSS grid properties to position each item in the page.
 > - [W3 CSS grid](https://www.w3schools.com/css/css_grid.asp),
 > - [CSS grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-Inside our ```index.html```, The ```<main>``` tag holds all the `div`s displayed in the page. So we should add the grid style on the ```<main>``` tag so its children could be aligned in a grid manner.
+Inside our `index.html`, The `<main>` tag holds all the `div`s displayed in the page. So we should add the grid style on the `<main>` tag so its children could be aligned in a grid manner.
 
 We will use its class name to access main.
 
