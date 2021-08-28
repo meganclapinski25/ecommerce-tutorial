@@ -152,7 +152,8 @@ for (let i = 0; i < data.length; i += 1) {
 	img.height = 300
 	// Add the image to the div
 	newDiv.appendChild(img)
-	console.log(img)
+	console.log(img) // Check the console!
+	itemsContainer.appendChild(newDiv)
 }
 ```
 
@@ -166,17 +167,19 @@ Here we are looping through each object and for each of them, we create a `div` 
 const newDiv = document.createElement('div');
 ```
 
-This will create an html div element.
+This will create an HTML div element. Just as if you had written this but you in this case you did it with code!
 
 ```html
 <div> </div>
 ```
 
-The second line assigns a class name to the div we just created
+The second line assigns a class name to the div you just created!
 
 ```js
 newDiv.className = 'item'
 ```
+
+Just as if you had written:
 
 ```html
 <div class='item'> </div>
@@ -184,13 +187,13 @@ newDiv.className = 'item'
 
 We want this div we created to hold the image, description and price of each item.
 Let's start with the image.
-We can create the image tag using ```document.createElement('img')```
+We can create the image tag using `document.createElement('img')`. This creats an `<img>` tag/element. We'll store it in a variable so we can use it. 
 
 ```js
 const img = document.createElement('img');
 ```
 
-Each attribute that we want to add to the image could be added using ```img.attributeName```, which is how we added the src, width and height of the image:
+Each attribute that we want to add to the image could be added using `img.attributeName`, which is how you added the `src`, `width` and `height` of the image:
 
 ```js
 img.src = data[i].image
@@ -198,19 +201,21 @@ img.width = 300
 img.height = 300
 ```
 
+**Important!** Creating the elements doesn't add them to the DOM! After you create an element if you want to make it visible you will have to add it to the DOM tree! 
+
 ## Connecting `scripts.js` with `index.html`
 
-  Just like we connected our `css` file with our `index.html`, we also need to connect our `scripts.js` file with `index.html`.
+Just like we connected our `css` file with our `index.html`, we also need to connect our `scripts.js` file with `index.html`.
 
-  > [action]
-  >
-  > Add this code right above the ending body tag (```</body>```) in `index.html`.
-  >
-  ```js
-  <script src='scripts.js' type="module"></script>
-  ```
+> [action]
+>
+> Add this code right above the ending body tag (`</body>`) in `index.html`.
+>
+```js
+<script src='scripts.js' type="module"></script>
+```
 
-```console.log``` is a way to print our progress. Once we make the image, we are printing it to the console to see if it's being created. It is a good way to make sure if your code is working the way it's supposed to.
+`console.log` is a way to print our progress. Once you make the image, you are printing it to the console to see if it's being created. It is a good way to make sure if your code is working the way it's supposed to.
 
 >[action]
 >
@@ -218,7 +223,9 @@ img.height = 300
 >
 > ![Console log img](assets/03_displaying-moods_console-log-img.png "Console log img")
 
-Now that we have created the image, we can append it to the `div` element we created. We want our html result to be:
+You should see a list of `<img>` tags in the console. 
+
+Now that you have created the image, you can append it to the `div` element you created. 
 
 ```html
 <div>
@@ -226,7 +233,9 @@ Now that we have created the image, we can append it to the `div` element we cre
 </div>
 ```
 
-To create the above code, we use `appendChild()` to append the image element into a div element.
+You want to create one div with an img for item in the data. You will add other things to each of these divs in a future step. 
+
+To create the above code, you used `appendChild()` to append the image element into a div element.
 Here's what the javascript code looks like:
 
 ```js
