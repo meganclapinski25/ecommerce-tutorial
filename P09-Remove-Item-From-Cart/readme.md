@@ -16,14 +16,14 @@ We are still working on the `scripts.js` file!
 
 This video covers removing items from the cart. Here you will use the Array.splice() method.
 
-![ms-video-youtube](https://www.youtube.com/embed/pJfQIrMEnBc)
+[https://www.youtube.com/embed/pJfQIrMEnBc](https://www.youtube.com/embed/pJfQIrMEnBc)
 
 
 # 7th Video
 
 Here we will take another look at the remove item function and use a default parameter to remove all or just one item from the cart.
 
-![ms-video-youtube](https://www.youtube.com/embed/GLxT2MCffAw)
+[https://www.youtube.com/embed/GLxT2MCffAw](https://www.youtube.com/embed/GLxT2MCffAw)
 
 
 # Update progress on Github
