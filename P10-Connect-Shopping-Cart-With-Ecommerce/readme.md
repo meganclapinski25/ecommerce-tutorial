@@ -68,7 +68,7 @@ Follow this video **starting at 5:40** to refactor the `showItems()` function.
 
 Work on the challenges that were mentioned at the end of the video.
 
-![ms-video-youtube](https://www.youtube.com/embed/Z5bypy7hHno)
+[https://www.youtube.com/embed/Z5bypy7hHno](https://www.youtube.com/embed/Z5bypy7hHno)
 
 
 # Displaying quantity and total price of your items in cart
@@ -97,7 +97,7 @@ Follow video 9 to display quantity of items
 
 In this video you'll print the quantity and total of all items in the shopping cart.
 
-![ms-video-youtube](https://www.youtube.com/embed/g0oRBqqk-Kk)
+[https://www.youtube.com/embed/g0oRBqqk-Kk](https://www.youtube.com/embed/g0oRBqqk-Kk)
 
 # Update progress on Github
 > [action]
