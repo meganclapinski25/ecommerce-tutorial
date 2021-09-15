@@ -13,21 +13,21 @@ In this chapter there will be 3 videos that will guide you in:
 
 This video will walk you through on how to use a **for-loop** to loop through items in an array and display them in the console.
 
-![ms-video-youtube](https://www.youtube.com/embed/m2dAe0aHOlQ)
+[https://www.youtube.com/embed/m2dAe0aHOlQ](https://www.youtube.com/embed/m2dAe0aHOlQ)
 
 
 # 4th Video
 
 In this video you will calculate the total quantity of items in the cart and the total cost of all items by using a loop to iterate over all items in the cart.
 
-![ms-video-youtube](https://www.youtube.com/embed/oTnd2lx5c-8)
+[https://www.youtube.com/embed/oTnd2lx5c-8](https://www.youtube.com/embed/oTnd2lx5c-8)
 
 
 # 5th Video
 
 Here you'll look over the code and make some syntactic improvements. We will also talk about returning values from functions to make them more useful. 
 
-![ms-video-youtube](https://www.youtube.com/embed/oCNlmeh310c)
+[https://www.youtube.com/embed/oCNlmeh310c](https://www.youtube.com/embed/oCNlmeh310c)
 
 
 
