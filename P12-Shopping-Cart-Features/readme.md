@@ -14,7 +14,7 @@ Follow this video **starting at 2:25** implement "Remove items" button to our sh
 
 At the start the video is slightly different but you will be implementing the same functionality throughout the video.
 
-![ms-video-youtube](https://www.youtube.com/embed/l2M5q2te234)
+[https://www.youtube.com/embed/l2M5q2te234](https://www.youtube.com/embed/l2M5q2te234)
 
 
 # Adding "add one" and "remove one" buttons for each items inside shopping cart
@@ -22,7 +22,7 @@ At the start the video is slightly different but you will be implementing the sa
 ## 12th Video
 Here we'll add a button to remove one item from the cart.
 
-![ms-video-youtube](https://www.youtube.com/embed/SjV6pdFV6aI)
+[https://www.youtube.com/embed/SjV6pdFV6aI](https://www.youtube.com/embed/SjV6pdFV6aI)
 
 
 # Updating items in shopping cart
