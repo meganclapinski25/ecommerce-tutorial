@@ -73,14 +73,14 @@ This first video will walk you through how to add and show items on your console
 
 Follow the video **starting at 5:25** until the end.
 
-![ms-video-youtube](https://www.youtube.com/embed/oMTO0LbBGLA)
+[https://www.youtube.com/embed/oMTO0LbBGLA](https://www.youtube.com/embed/oMTO0LbBGLA)
 
 
 # 2nd video
 
 In this video, we'll be discussing how to use objects to add items into an array. Follow the full video.
 
-![ms-video-youtube](https://www.youtube.com/embed/yUfbzeKol04)
+[https://www.youtube.com/embed/yUfbzeKol04](https://www.youtube.com/embed/yUfbzeKol04)
 
 
 
