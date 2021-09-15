@@ -30,7 +30,7 @@ Here we'll add a button to remove one item from the cart.
 ## 13th Video
 Here you will add an input that allows you to set the number of items in the cart. To do this you'll listen for an on change event.
 
-![ms-video-youtube](https://www.youtube.com/embed/saizM7bVaTo)
+[https://www.youtube.com/embed/saizM7bVaTo](https://www.youtube.com/embed/saizM7bVaTo)
 
 Now our page should look like this:
 
